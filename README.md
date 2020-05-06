@@ -1,6 +1,6 @@
 # PredictionModel-ML-
 #jupyter
-#scilearn
+#sklearn
 #pandas
 #python
 #basic machine learning predictive model for music
